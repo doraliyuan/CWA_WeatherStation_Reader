@@ -1,5 +1,5 @@
 # CWA_WeatherStation_Reader
-Read the Taiwan CWA Weather Station data.
+Read the Taiwan CWA (Central Weather Administration) Weather Station data.
 
 # 程式目的
 讀取台灣中央氣象署的氣象測站資料。
